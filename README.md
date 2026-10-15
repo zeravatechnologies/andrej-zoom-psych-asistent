@@ -37,3 +37,9 @@ npm run dev         # pokreni u razvojnom modu
 npm run dist        # napravi .deb u app/dist/
 ```
 Ako se pokreće iz VS Code terminala, prvo `unset ELECTRON_RUN_AS_NODE`.
+
+## Author
+
+Created by **Andrej Ristić**, [Zerava Technologies Inc.](https://www.zeravatech.ca), Toronto.
+
+Source: <https://github.com/zeravatechnologies/andrej-zoom-psych-asistent>
